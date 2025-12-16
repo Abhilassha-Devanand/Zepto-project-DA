@@ -1,5 +1,7 @@
 # Zepto-project-DA
+
 Zepto Product, Pricing & Inventory Analysis
+
 📌 Project Overview
 
 This project analyzes product pricing, discount strategies, and inventory availability for a quick-commerce platform (Zepto). The analysis was carried out using MySQL for data cleaning and querying, and Power BI for building an interactive dashboard to derive business insights.
